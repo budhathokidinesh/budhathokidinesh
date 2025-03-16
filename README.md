@@ -21,18 +21,16 @@
 <a href="https://medium.com/@physmarika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@physmarika" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/budhathokidinesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="budhathokidinesh" height="30" width="40" /></a>
 </p>
-
 <div align="center">
-  <a href="https://app.daily.dev/dineshbudhathoki" style="text-decoration: none; color: inherit; display: block;">
-    <div style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; max-width: 300px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); cursor: pointer;">
-      <img src="https://avatars.githubusercontent.com/budhathokidinesh" alt="Profile Photo" style="width: 100px; height: 100px; border-radius: 50%; margin-bottom: 15px;">
-      <h3 style="margin: 10px 0;">Dinesh Budhathoki</h3>
-      <p style="margin: 5px 0;"><strong>Reputation:</strong> 1</p>
-      <p style="margin: 5px 0;"><strong>Longest Streak:</strong> 3 days</p>
-      <p style="margin: 5px 0;"><strong>Posts Read:</strong> 5+</p>
-      <p style="margin: 5px 0; color: #007AFF;">Visit my daily.dev profile →</p>
-    </div>
+  <h2>Dinesh Budhathoki</h2>
+  <a href="https://app.daily.dev/dineshbudhathoki">
+    <img src="https://img.shields.io/badge/Reputation-1-blue?logo=daily.dev&style=for-the-badge" alt="Reputation">
+    <img src="https://img.shields.io/badge/Longest%20Streak-3%20days-green?logo=daily.dev&style=for-the-badge" alt="Longest Streak">
+    <img src="https://img.shields.io/badge/Posts%20Read-5%2B-orange?logo=daily.dev&style=for-the-badge" alt="Posts Read">
   </a>
+  <p style="margin: 10px 0;">
+    <a href="https://app.daily.dev/dineshbudhathoki" style="text-decoration: none; color: #007AFF;">Visit my daily.dev profile →</a>
+  </p>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
