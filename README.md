@@ -23,16 +23,16 @@
 </p>
 
 <div align="center">
-  <a href="https://app.daily.dev/dineshbudhathoki" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; max-width: 300px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  <div style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; max-width: 300px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    <a href="https://app.daily.dev/dineshbudhathoki" style="text-decoration: none; color: inherit;">
       <img src="https://avatars.githubusercontent.com/budhathokidinesh" alt="Profile Photo" style="width: 100px; height: 100px; border-radius: 50%; margin-bottom: 15px;">
       <h3 style="margin: 10px 0;">Dinesh Budhathoki</h3>
       <p style="margin: 5px 0;"><strong>Reputation:</strong> 1</p>
       <p style="margin: 5px 0;"><strong>Longest Streak:</strong> 3 days</p>
       <p style="margin: 5px 0;"><strong>Posts Read:</strong> 5+</p>
       <p style="margin: 5px 0; color: #007AFF;">Visit my daily.dev profile →</p>
-    </div>
-  </a>
+    </a>
+  </div>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
