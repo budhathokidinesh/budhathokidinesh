@@ -13,6 +13,8 @@
  👨‍💻 All of my projects are available at [GitHub](https://github.com/budhathokidinesh)
 
  📫 How to reach me **physmarika@gmail.com**
+ 
+ 🌐 Know about my experiences [https://dineshbudhathoki.netlify.app/](https://dineshbudhathoki.netlify.app/)
 </div>
 
 
