@@ -41,5 +41,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=budhathokidinesh&show_icons=true&locale=en" alt="budhathokidinesh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=budhathokidinesh&" alt="budhathokidinesh" /></p>
-![Dinesh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=budhathokidinesh&theme=tokyo-night)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=budhathokidinesh&theme=tokyo-night" alt="Dinesh's GitHub Activity Graph" width="100%">
 
