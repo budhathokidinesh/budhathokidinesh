@@ -6,7 +6,7 @@
 <p align="center" width="100%"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=budhathokidinesh" alt="budhathokidinesh" /></a> </p>
 <div align="center">
   
-   🔭 I’m currently working on [MERN E-Commerce website]
+   🔭 I’m currently working on **MERN E-commerce website**
 
  🌱 I’m currently learning **Tailwind Css**
 
