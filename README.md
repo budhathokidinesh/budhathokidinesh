@@ -8,7 +8,7 @@
   
    🔭 I’m currently working on **MERN E-commerce website**
 
- 🌱 I’m currently learning **Tailwind Css**
+ 🌱 I’m currently practicing in LeetCode.
 
  👨‍💻 All of my projects are available at [GitHub](https://github.com/budhathokidinesh)
 
