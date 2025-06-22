@@ -8,7 +8,7 @@
   
    🔭 I’m currently working on **Fish and Chips shop Web App and Group Project**
 
- 🌱 I’m currently practicing in Typescript.
+ 🌱 I’m currently Learning in Typescript.
 
  👨‍💻 All of my projects are available at [GitHub](https://github.com/budhathokidinesh)
 
