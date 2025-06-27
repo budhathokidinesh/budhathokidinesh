@@ -6,6 +6,8 @@
 <p align="center" width="100%"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=budhathokidinesh" alt="budhathokidinesh" /></a> </p>
 <div align="center">
   
+## 💫 About Me: 
+  
    🔭 I’m currently working on **App For Fish and Chips Shop and Group Project Web App**
 
  🌱 I’m currently Learning in Typescript.
