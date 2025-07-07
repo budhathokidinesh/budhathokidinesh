@@ -8,7 +8,7 @@
   
 ## 💫 About Me: 
   
-   🔭 I’m currently working on **App For Fish and Chips Shop and Group Project Web App**
+   🔭 I’m currently working on **Group Project Web App**
 
  🌱 I’m currently Learning in Python.
 
