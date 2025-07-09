@@ -10,7 +10,7 @@
   
    🔭 I’m currently working on **Group Project Web App**
 
- 🌱 I’m currently Learning in Python.
+ 🌱 I’m currently Learning in **Python**.
 
  👨‍💻 All of my projects are available at [GitHub](https://github.com/budhathokidinesh)
 
