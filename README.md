@@ -10,7 +10,7 @@
   
    🔭 I’m currently working on **E-Commerce Full Stack Website**
 
- 🌱 I’m currently Learning in **Python and Gen AI**.
+ 🌱 I’m currently Learning in **Python**.
 
  👨‍💻 All of my projects are available at [GitHub](https://github.com/budhathokidinesh)
 
