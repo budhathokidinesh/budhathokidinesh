@@ -8,7 +8,7 @@
   
 ## 💫 About Me: 
   
-   🔭 I’m currently working on **E-Commerce Full Stack Website**
+   🔭 I’m currently working on **Group Project**
 
  🌱 I’m currently Learning in **Python**.
 
