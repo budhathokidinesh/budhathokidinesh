@@ -8,7 +8,7 @@
   
 ## About Me: 
   
-   🔭 I’m currently working on ** E-Commerce Group Project**
+   🔭 I’m currently working on ** E-Commerce Web App**
 
  🌱 I’m currently Learning in **Python**.
 
