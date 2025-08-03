@@ -8,7 +8,7 @@
   
 ## About Me: 
   
-   🔭 I’m currently working on ** E-Commerce Web App**
+   🔭 I’m currently working on ** E-Commerce Web Application**
 
  🌱 I’m currently Learning in **Gen AI with JS**.
 
