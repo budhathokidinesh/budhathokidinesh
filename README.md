@@ -10,7 +10,7 @@
   
    🔭 I’m currently working on ** E-Commerce Web Application**
 
- 🌱 I’m currently Learning in **Gen AI with JS**.
+ 🌱 I’m currently Learning in **Master Prompting**.
 
  👨‍💻 All of my projects are available at [GitHub](https://github.com/budhathokidinesh)
 
