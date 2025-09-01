@@ -10,7 +10,7 @@
   
    🔭 I’m currently working on ** Protfolio Website**
 
- 🌱 I’m currently Learning in **Master Prompting**.
+ 🌱 I’m currently Learning in **Gen AI**.
 
  👨‍💻 All of my projects are available at [GitHub](https://github.com/budhathokidinesh)
 
