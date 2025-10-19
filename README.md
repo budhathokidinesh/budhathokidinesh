@@ -8,7 +8,7 @@
   
 ## About Me: 
   
-   🔭 I’m currently working on ** Protfolio Website**
+   🔭 I’m currently working on **DineshNote RAG**
 
  🌱 I’m currently Learning in **Gen AI**.
 
