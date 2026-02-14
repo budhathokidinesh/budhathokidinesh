@@ -8,7 +8,7 @@
   
 ## About Me: 
   
-   🔭 I’m currently working on **DineshNote**
+   🔭 I’m currently working on **DineshNote with agentic AI**
 
  🌱 I’m currently Learning in **Agentic AI**.
 
