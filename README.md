@@ -10,7 +10,7 @@
   
    🔭 I’m currently working on **DineshNote with agentic AI**
 
- 🌱 I’m currently Learning in **Agentic AI**.
+ 🌱 I’m currently Learning in **Gen AI**.
 
  👨‍💻 All of my projects are available at [GitHub](https://github.com/budhathokidinesh)
 
