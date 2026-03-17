@@ -3,8 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=budhathokidinesh&label=Profile%20views&color=0e75b6&style=flat" alt="budhathokidinesh" /> </p>
 
-<p align="center" width="100%"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=budhathokidinesh" alt="budhathokidinesh" /></a> </p>
-<div align="center">
+[![trophy](https://github-profile-trophy.vercel.app/?username=budhathokidinesh&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
   
 ## About Me: 
   
