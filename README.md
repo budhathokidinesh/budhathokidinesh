@@ -10,7 +10,7 @@
   
    🔭 I’m currently working on **NextZenTalent**
 
- 🌱 I’m currently doing Internship with **Rebb Tech**.
+ 🌱 I’m currently doing Internship with **[Rebb Tech](https://rebbtech.com.au/)**.
 
  👨‍💻 All of my projects are available at [GitHub](https://github.com/budhathokidinesh)
 
