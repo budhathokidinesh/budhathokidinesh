@@ -16,7 +16,7 @@
 
  📫 How to reach me **dineshbudhathoki.dev@gmail.com**
  
- 🌐 Know about my experiences [https://dineshbudhathoki.netlify.app/](https://dineshbudhathoki.netlify.app/)
+ 🌐 Know about my experiences [Dinesh Budhathoki](https://www.dineshbudhathoki.com)
 </div>
 
 
