@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=budhathokidinesh&label=Profile%20views&color=0e75b6&style=flat" alt="budhathokidinesh" /> </p>
-
+<div>
 ## About Me: 
   
  🔭 I’m currently working on **NextZenTalent**
