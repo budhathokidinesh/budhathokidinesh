@@ -3,11 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=budhathokidinesh&label=Profile%20views&color=0e75b6&style=flat" alt="budhathokidinesh" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=budhathokidinesh)](https://github.com/ryo-ma/github-profile-trophy)
-  
 ## About Me: 
   
-   🔭 I’m currently working on **NextZenTalent**
+ 🔭 I’m currently working on **NextZenTalent**
 
  🌱 I’m currently doing Internship with **[Rebb Tech](https://rebbtech.com.au/)**.
 
