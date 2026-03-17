@@ -6,17 +6,11 @@
 <h2 align="center">About Me</h2>
 
 <p align="center">
-🔭 I’m currently working on <b>NextZenTalent</b><br><br>
-
-🌱 I’m currently doing Internship with <b><a href="https://rebbtech.com.au/">Rebb Tech</a></b><br><br>
-
-👨‍💻 All of my projects are available at 
-<a href="https://github.com/budhathokidinesh">GitHub</a><br><br>
-
-📫 How to reach me <b>dineshbudhathoki.dev@gmail.com</b><br><br>
-
-🌐 Know about my experiences 
-<a href="https://www.dineshbudhathoki.com">Dinesh Budhathoki</a>
+🚀 Full Stack Developer passionate about building scalable apps<br>
+💻 Working on <b>NextZenTalent</b><br>
+🏢 Intern at <b>Rebb Tech</b><br>
+📬 dineshbudhathoki.dev@gmail.com<br>
+🌐 <a href="https://www.dineshbudhathoki.com">Portfolio</a>
 </p>
 
 
