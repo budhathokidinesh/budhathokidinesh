@@ -2,19 +2,22 @@
 <h3 align="center">Full Stack Developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=budhathokidinesh&label=Profile%20views&color=0e75b6&style=flat" alt="budhathokidinesh" /> </p>
-<div>
-## About Me: 
-  
- 🔭 I’m currently working on **NextZenTalent**
 
- 🌱 I’m currently doing Internship with **[Rebb Tech](https://rebbtech.com.au/)**.
+<h2 align="center">About Me</h2>
 
- 👨‍💻 All of my projects are available at [GitHub](https://github.com/budhathokidinesh)
+<p align="center">
+🔭 I’m currently working on <b>NextZenTalent</b><br><br>
 
- 📫 How to reach me **dineshbudhathoki.dev@gmail.com**
- 
- 🌐 Know about my experiences [Dinesh Budhathoki](https://www.dineshbudhathoki.com)
-</div>
+🌱 I’m currently doing Internship with <b><a href="https://rebbtech.com.au/">Rebb Tech</a></b><br><br>
+
+👨‍💻 All of my projects are available at 
+<a href="https://github.com/budhathokidinesh">GitHub</a><br><br>
+
+📫 How to reach me <b>dineshbudhathoki.dev@gmail.com</b><br><br>
+
+🌐 Know about my experiences 
+<a href="https://www.dineshbudhathoki.com">Dinesh Budhathoki</a>
+</p>
 
 
 
