@@ -7,8 +7,7 @@
 
 <p align="center">
 🚀 Full Stack Developer passionate about building scalable apps<br>
-💻 Working on <b>NextZenTalent</b><br>
-🏢 Intern at <b>Rebb Tech</b><br>
+💻 Working on as a Intern <b>NextZenTalent</b><br>
 📬 dineshbudhathoki.dev@gmail.com<br>
 🌐 <a href="https://www.dineshbudhathoki.com">Portfolio</a>
 </p>
