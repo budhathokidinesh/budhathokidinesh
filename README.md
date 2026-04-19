@@ -1,46 +1,50 @@
-<h1 align="center">Hi 👋, I'm Dinesh Budhathoki</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h1>Hi 👋, I'm Dinesh Budhathoki</h1>
+<p><img src="https://komarev.com/ghpvc/?username=budhathokidinesh&label=Profile%20views&color=0e75b6&style=flat" alt="budhathokidinesh" /></p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=budhathokidinesh&label=Profile%20views&color=0e75b6&style=flat" alt="budhathokidinesh" /> </p>
+---
 
-<h2 align="center">About Me</h2>
+## 👨‍💻 About Me
 
-<p align="center">
-🚀 Full Stack Developer passionate about building scalable apps<br>
-💻 Working on as a Intern <b>NextZenTalent</b><br>
-📬 dineshbudhathoki.dev@gmail.com<br>
-🌐 <a href="https://www.dineshbudhathoki.com">Portfolio</a>
-</p>
+🚀 Full Stack Developer who loves turning ideas into real, scalable web applications  
+🌱 Currently growing my skills as an Intern at **NextZenTalent** — learning something new every day  
+🔥 Passionate about clean code, great UI, and building things that actually matter  
+🛠️ Love working with the **MERN Stack** and exploring new technologies  
+🎯 Always looking for opportunities to solve real-world problems through code  
+💡 Believer in continuous learning — from documentation to side projects to late-night debugging  
+📬 Reach me at: [dineshbudhathoki.dev@gmail.com](mailto:dineshbudhathoki.dev@gmail.com)  
+🌐 Check out my work: [dineshbudhathoki.com](https://www.dineshbudhathoki.com)
 
+---
+## 🌐 Connect With Me:
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dineshbudhathoki) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17624003) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@physmarika) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=%23d16c06)](https://www.leetcode.com/budhathokidinesh)
 
-<h2 align="center">Connect me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/dineshbudhathoki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dineshbudhathoki" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17624003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17624003" height="30" width="40" /></a>
-<a href="https://medium.com/@physmarika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@physmarika" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/budhathokidinesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="budhathokidinesh" height="30" width="40" /></a>
-</p>
-<div align="center">
-  <h2>Dinesh Budhathoki</h2>
-  <a href="https://app.daily.dev/dineshbudhathoki">
-    <img src="https://img.shields.io/badge/Reputation-1-blue?logo=daily.dev&style=for-the-badge" alt="Reputation">
-    <img src="https://img.shields.io/badge/Longest%20Streak-3%20days-green?logo=daily.dev&style=for-the-badge" alt="Longest Streak">
-    <img src="https://img.shields.io/badge/Posts%20Read-5%2B-orange?logo=daily.dev&style=for-the-badge" alt="Posts Read">
-  </a>
-  <p style="margin: 10px 0;">
-    <a href="https://app.daily.dev/dineshbudhathoki" style="text-decoration: none; color: #007AFF;">Visit my daily.dev profile →</a>
-  </p>
-</div>
+---
+## 🛠️ Languages, Skills & Tools:
 
-<h2 align="center">Languages, Skils and Tools:</h3>
-<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+#### 🧑‍💻 Languages
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=budhathokidinesh&show_icons=true&locale=en&layout=compact" alt="budhathokidinesh" /></p>
+#### 🌐 Frontend
+[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/) [![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/) [![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org) [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html/) [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/) [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) [![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=budhathokidinesh&show_icons=true&locale=en" alt="budhathokidinesh" /></p>
+#### ⚙️ Backend
+[![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org) [![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://expressjs.com)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=budhathokidinesh&" alt="budhathokidinesh" width="100%"/></p>
+#### 🗄️ Databases
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/) [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) [![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/) [![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)](https://firebase.google.com/)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=budhathokidinesh&theme=tokyo-night" alt="Dinesh's GitHub Activity Graph" width="100%">
+#### ☁️ Cloud & DevOps
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/) [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/) [![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
 
+#### 🔧 Tools & Concepts
+[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/) [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://postman.com) [![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira) [![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/) [![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/swift/)
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api/top-langs?username=budhathokidinesh&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=budhathokidinesh&show_icons=true&locale=en&theme=dark&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=budhathokidinesh&theme=dark&hide_border=false)
+![](https://github-readme-activity-graph.vercel.app/graph?username=budhathokidinesh&theme=tokyo-night)
