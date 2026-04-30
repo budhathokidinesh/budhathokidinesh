@@ -5,14 +5,14 @@
 
 ## 👨‍💻 About Me
 
-🚀 Full Stack Developer who loves turning ideas into real, scalable web applications  
-🌱 Currently growing my skills as an Intern at **NextZenTalent** — learning something new everyday 
-🔥 Passionate about clean code, great UI, and building things that actually matter  
-🛠️ Love working with the **MERN Stack** and cloud computing  
-🎯 Always looking for opportunities to solve real-world problems through code  
-💡 Believer in continuous learning — from documentation to side projects to late-night debugging  
-📬 Reach me at: [dineshbudhathoki.dev@gmail.com](mailto:dineshbudhathoki.dev@gmail.com)  
-🌐 Check out my work: [dineshbudhathoki.com](https://www.dineshbudhathoki.com)
+🚀 Full Stack Developer who loves turning ideas into real, scalable web applications.
+🌱 Currently growing my skills as an Intern at **NextZenTalent** — learning something new everyday.
+🔥 Passionate about clean code, great UI, and building things that actually matter.  
+🛠️ Love working with the **MERN Stack** and cloud computing.  
+🎯 Always looking for opportunities to solve real-world problems through code.  
+💡 Believer in continuous learning — from documentation to side projects to late-night debugging.  
+📬 Reach me at: [dineshbudhathoki.dev@gmail.com](mailto:dineshbudhathoki.dev@gmail.com).  
+🌐 Check out my work: [dineshbudhathoki.com](https://www.dineshbudhathoki.com).
 
 ---
 ## 🌐 Connect With Me:
