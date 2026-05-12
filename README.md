@@ -6,7 +6,7 @@
 ## 👨‍💻 About Me
 
 🚀 Full Stack Developer who loves turning ideas into real, scalable web applications.
-🌱 Currently growing my skills as an Intern at **NextZenTalent** — learning something new everyday.
+🌱 Currently growing my skills as an Full-Stack Developer intern at **NextZenTalent** — learning something new everyday.
 🔥 Passionate about clean code, great UI, and building things that actually matter.  
 🛠️ Love working with the **MERN Stack** and cloud computing.  
 🎯 Always looking for opportunities to solve real-world problems through code.  
