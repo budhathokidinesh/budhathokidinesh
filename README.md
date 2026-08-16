@@ -5,12 +5,14 @@
 
 ## 👨‍💻 About Me
 
-🚀 Full Stack Developer who loves turning ideas into real, scalable web applications.<br>
-🌱 Currently growing my skills as an Intern at **NextZenTalent** — learning something new everyday.<br>
-🔥 Passionate about clean code, great UI, and building things that actually matter.<br>
-🛠️ Love working with the **MERN Stack** and cloud computing.  
-🎯 Always looking for opportunities to solve real-world problems through code.  
-💡 Believer in continuous learning — from documentation to side projects to late-night debugging.  
+🚀 PhD Researcher in **AI and Computer Vision** at Charles Sturt University.<br>
+🐄 Researching **AI-driven cattle measurement and decision-making for Australian feedlots**.
+🔬 Interested in **computer vision, deep learning, 3D vision, machine learning, and applied AI**.
+💻 Background in **full-stack development**, with experience in React, Node.js, and cloud technologies.
+⚛️ Originally trained in **Physics**, with a background in mathematical and computational research.
+🚀 Passionate about applying technology to **real-world problems in agriculture and livestock production**.
+🌱 Currently learning and exploring **Python, AI/ML, computer vision, and high-performance computing**.
+💡 Interested in building AI systems that turn **data into practical and measurable value**.  
 📬 Reach me at: [dineshbudhathoki.dev@gmail.com](mailto:dineshbudhathoki.dev@gmail.com)  
 🌐 Check out my work: [dineshbudhathoki.com](https://www.dineshbudhathoki.com)
 
