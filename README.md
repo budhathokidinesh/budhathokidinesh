@@ -5,16 +5,21 @@
 
 ## 👨‍💻 About Me
 
-🚀 PhD Researcher in **AI and Computer Vision** at Charles Sturt University.<br>
-🐄 Researching **AI-driven cattle measurement and decision-making for Australian feedlots**.
-🔬 Interested in **computer vision, deep learning, 3D vision, machine learning, and applied AI**.
-💻 Background in **full-stack development**, with experience in React, Node.js, and cloud technologies.
-⚛️ Originally trained in **Physics**, with a background in mathematical and computational research.
-🚀 Passionate about applying technology to **real-world problems in agriculture and livestock production**.
-🌱 Currently learning and exploring **Python, AI/ML, computer vision, and high-performance computing**.
-💡 Interested in building AI systems that turn **data into practical and measurable value**.  
-📬 Reach me at: [dineshbudhathoki.dev@gmail.com](mailto:dineshbudhathoki.dev@gmail.com)  
-🌐 Check out my work: [dineshbudhathoki.com](https://www.dineshbudhathoki.com)
+🎓 PhD Researcher in **AI & Computer Vision** at Charles Sturt University.
+
+🐄 Working on **AI-driven cattle measurement and decision-making for Australian feedlots**.
+
+🔬 Research interests include **Computer Vision, Deep Learning, 3D Vision, Machine Learning, and Applied AI**.
+
+💻 Background in **Physics and Full-Stack Software Development**.
+
+🚀 Passionate about applying AI to **real-world problems in agriculture and livestock production**.
+
+🌱 Currently exploring **Python, Computer Vision, Deep Learning, and High-Performance Computing**.
+
+📬 Reach me at: [dineshbudhathoki.dev@gmail.com](mailto:dineshbudhathoki.dev@gmail.com)
+
+🌐 [dineshbudhathoki.com](https://www.dineshbudhathoki.com)
 
 ---
 ## 🌐 Connect With Me:
